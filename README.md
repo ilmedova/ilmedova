@@ -1,4 +1,5 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">Hi there! I am Mahri, and this is the place where I opensource some cool stuff.
+###
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">Hi there! I am Mahri, and this is the place where I opensource some cool stuff</h1>
 
 - 🔭 I’m currently working on my composer package <a href="https://github.com/ilmedova/chattle">Chattle</a>
 - 💬 Ask me about **Laravel, PHP, Inertia, React**
