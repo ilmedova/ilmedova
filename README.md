@@ -34,9 +34,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" width="42" alt="electron logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" width="42" alt="ubuntu logo"  />
 </div>
-
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilmedova&show_icons=true&theme=transparent" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilmedova&layout=compact" height="150" alt="languages graph"  />
-</div>
