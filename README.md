@@ -1,22 +1,21 @@
 ###
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">Hi there!</h1>
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"> Hi there!</h1>
 
-<h2>whoami</h2>
-- 😊 I am a root user of this github page you see
-- 🚀 I’m currently working on my composer package <a href="https://github.com/ilmedova/chattle">Chattle</a>
-- 💬 Ask me about **Laravel, PHP, Inertia, React**
-- 🗿 Fun fact **I am unable to type with boxing gloves on, but whoever can?**
+<h2>whoami:</h2>
+- 😊 I am a root user of this github page you see <br/>
+- 🚀 I’m currently working on my composer package <a href="https://github.com/ilmedova/chattle">Chattle</a> <br/>
+- 💬 Ask me about **Laravel, PHP, Inertia, React** <br/>
+- 🗿 Fun fact **I am unable to type with boxing gloves on, but whoever can?<br/>
 
-<h3>🔗 Connect with me</h3>
+<h2>contacts:</h2>
 <p>
 <a href="https://linkedin.com/in/mahri-ilmedova-4848b6165/" target="blank">LinkedIn</a>
 <a href="https://stackoverflow.com/users/10000507/mahri-ilmedova" target="blank">Stackoverflow</a>
  <a href="https://medium.com/@ilmedovamahri" target="blank">Medium</a>
  </p>
  
-<h3 align="center">Languages and Tools</h3>
-
-<div align="center">
+<h2>languages + tools</h2>
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" width="42" alt="composer logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="30" width="42" alt="laravel logo"  />
