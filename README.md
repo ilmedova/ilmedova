@@ -1,9 +1,11 @@
 ###
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">Hi there! <br/>Welcome to place where I opensource some cool stuff</h1>
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">Hi there!</h1>
 
-- 🔭 I’m currently working on my composer package <a href="https://github.com/ilmedova/chattle">Chattle</a>
+<h2>whoami</h2>
+- 😊 I am a root user of this github page you see
+- 🚀 I’m currently working on my composer package <a href="https://github.com/ilmedova/chattle">Chattle</a>
 - 💬 Ask me about **Laravel, PHP, Inertia, React**
-- ⚡ Fun fact **I am unable to type with boxing gloves on, but whoever can?**
+- 🗿 Fun fact **I am unable to type with boxing gloves on, but whoever can?**
 
 <h3>🔗 Connect with me</h3>
 <p>
