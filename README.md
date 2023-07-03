@@ -4,7 +4,7 @@
 <h2>whoami:</h2>
 - 😊 I am a root user of this github page you see <br/>
 - 🚀 I’m currently working on my composer package <a href="https://github.com/ilmedova/chattle">Chattle</a> <br/>
-- 💬 Ask me about **Laravel, PHP, Inertia, React** <br/>
+- 💬 Ask me about Laravel, PHP, Java, React, Python, Flask <br/>
 - 🗿 Fun fact **I am unable to type with boxing gloves on, but whoever can?<br/>
 
 <h2>contacts:</h2>
