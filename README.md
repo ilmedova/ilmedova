@@ -9,10 +9,10 @@
 
 <h2>contacts:</h2>
 <p>
-<a href="https://linkedin.com/in/mahri-ilmedova-4848b6165/" target="blank">LinkedIn</a>
-<a href="https://stackoverflow.com/users/10000507/mahri-ilmedova" target="blank">Stackoverflow</a>
- <a href="https://medium.com/@ilmedovamahri" target="blank">Medium</a>
- </p>
+LinkedIn: <a href="https://linkedin.com/in/mahri-ilmedova-4848b6165/" target="blank">Mahri Ilmedova</a><br/>
+Stackoverflow: <a href="https://stackoverflow.com/users/10000507/mahri-ilmedova" target="blank">Stackoverflow</a><br/>
+Medium: <a href="https://medium.com/@ilmedovamahri" target="blank">Medium</a>
+</p>
  
 <h2>languages + tools</h2>
 <div>
