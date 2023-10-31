@@ -3,8 +3,8 @@
 
 <h2>whoami:</h2>
 😊  I am a root user of this github page you see <br/>
-🚀  I’m currently slowly working on my composer package <a href="https://github.com/ilmedova/chattle">Chattle</a>. Development on package goes slow as I have a job, sorry! <br/>
-💬  Ask me about PHP, Java, React and Python <br/>
+🚀  I’m currently doing my masters, that's why soon there will be some good opensource here =) <br/>
+💬  Ask me about JavaScript, Java, PHP and Python <br/>
 
 <h2>contacts:</h2>
 <p>
