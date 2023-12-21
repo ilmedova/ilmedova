@@ -13,7 +13,7 @@ Stackoverflow: <a href="https://stackoverflow.com/users/10000507/mahri-ilmedova"
 Medium: <a href="https://medium.com/@ilmedovamahri" target="blank">Medium</a>
 </p>
  
-<h2>languages + tools</h2>
+<h2>tech stack:</h2>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" width="42" alt="composer logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
@@ -34,3 +34,6 @@ Medium: <a href="https://medium.com/@ilmedovamahri" target="blank">Medium</a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" width="42" alt="electron logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" width="42" alt="ubuntu logo"  />
 </div>
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilmedova&layout=compact) -->
+![](./profile-3d-contrib/profile-night-rainbow.svg)
