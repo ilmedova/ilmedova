@@ -38,6 +38,6 @@ Medium: <a href="https://medium.com/@ilmedovamahri" target="blank">Medium</a>
 <br>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merlinemris&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilmedova&layout=compact" />
 
 
