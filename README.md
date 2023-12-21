@@ -35,5 +35,9 @@ Medium: <a href="https://medium.com/@ilmedovamahri" target="blank">Medium</a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" width="42" alt="ubuntu logo"  />
 </div>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilmedova&layout=compact) -->
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<br>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merlinemris&layout=compact" />
+
+
