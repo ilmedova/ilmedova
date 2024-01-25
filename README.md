@@ -3,8 +3,9 @@
 
 <h2>whoami:</h2>
 😊  I am a root user of this github page you see <br/>
-🚀  I’m currently doing my masters, that's why soon there will be some good opensource here =) <br/>
-💬  Ask me about JavaScript, Java, PHP and Python <br/>
+🚀  I’m currently doing my masters, that's why soon there will be some good opensource here from the courses I have haha.. <br/>
+👩🏻‍💻  I’m an AI engineer and currently doing some projects in AI and LLMs now <br/>
+🤗 A big fan of HuggingFaces
 
 <h2>contacts:</h2>
 <p>
