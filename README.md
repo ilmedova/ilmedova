@@ -7,6 +7,9 @@
 💬 You can reach me via: ilmedovamahri2@gmail.com
 </p>
 <br/>
+Profile views:
+<img src="https://profile-counter.glitch.me/ilmedova/count.svg"/>
+<br/>
 
 <h2>🤗 Let's connect!</h2>
 <p>
