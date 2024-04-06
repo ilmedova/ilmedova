@@ -16,7 +16,7 @@ And let's not forget to stay updated with articles on: <a href="https://medium.c
 </p>
 <br/>
 
-<h2>🏆 Github stats</h2>
+<h2>🏆 Github stats 🏆</h2>
 <img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=ilmedova&theme=algolia">
 <br>
 <div align="center">
