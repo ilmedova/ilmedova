@@ -1,7 +1,7 @@
 ###
 <h2>👋 Hi there!</h2>
 <p>
-🎯 Passionate software engineer with over 4 years of experience possessing a comprehensive software development toolkit, wielding a range of programming languages with expertise in full-stack web development.<br/>
+🎯 Passionate software engineer with over 4 years of experience<br/>
 🚀 Launching into AI: Aspiring Machine Learning Enthusiast fueling my passion on the path to mastery <br/>
 💬 You can reach me via: ilmedovamahri2@gmail.com
 </p>
