@@ -26,4 +26,4 @@ And let's not forget to stay updated with articles on: <a href="https://medium.c
 <br>
 
 <h2>🧠 Leetcode stats</h2>
-<a href="https://leetcode.com/mahri/"><img src="https://leetcard.jacoblin.cool/mahri?theme=nord&font=Ubuntu"></a>
+<a href="https://leetcode.com/mahri/"><img src="https://leetcard.jacoblin.cool/mahri?theme=nord&font=Ubuntu" ></a>
