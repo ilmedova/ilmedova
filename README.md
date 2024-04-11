@@ -1,7 +1,10 @@
 ###
 <h2>👋 Hi there!</h2>
 <p>
-🎯 Passionate and result-oriented software engineer with over 4 years of experience<br/>
+🎓 Bachelor's degree: Programming for the Computer Systems <br/>
+🎓 Master's degree: Computer Science <br/>
+💻 Professional non-internship experience: 4+ years<br/>
+💪 Passionate software engineer with strong problem solving and programming skills<br/>
 🚀 Launching into AI: Aspiring Machine Learning Enthusiast fueling my passion on the path to mastery <br/>
 💬 You can reach me via: ilmedovamahri2@gmail.com
 </p>
@@ -15,7 +18,7 @@ And let's not forget to stay updated with articles on: <a href="https://medium.c
 </p>
 <br/>
 
-<h2>🏆 Github stats 🏆</h2>
+<h2>🏆 Github stats</h2>
 <img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=ilmedova&theme=algolia">
 <br>
 <div align="center">
@@ -26,4 +29,10 @@ And let's not forget to stay updated with articles on: <a href="https://medium.c
 <br>
 
 <h2>🧠 Leetcode stats</h2>
-<a href="https://leetcode.com/mahri/"><img src="https://leetcard.jacoblin.cool/mahri?theme=nord&font=Ubuntu" ></a>
+<a href="https://leetcode.com/mahri/"><img src="https://leetcard.jacoblin.cool/mahri?theme=nord&font=Ubuntu" ></a><br>
+<br>
+
+<h2>📜 Certifications</h2>
+<div>
+    <a href="https://www.hackerrank.com/certificates/c73d843dda76"><img style="width: 33%" src="./certificates/python_basic.png"/></a>
+</div>
