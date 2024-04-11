@@ -1,10 +1,11 @@
 ###
-<h3>👋 Hi there!</h3>
+<h3>👋 Hello world!</h3>
 <p>
+:octocat: Welcome to my github page! <br/>
 🎓 Bachelor's degree: Programming for the Computer Systems <br/>
 🎓 Master's degree: Computer Science <br/>
 💻 Professional non-internship experience: 4+ years<br/>
-💪 Passionate software engineer with strong problem solving and programming skills<br/>
+💪 Passionate software engineer with strong problem solving, programming and communication skills<br/>
 🚀 Launching into AI: Aspiring Machine Learning Enthusiast fueling my passion on the path to mastery <br/>
 💬 You can reach me via: ilmedovamahri2@gmail.com
 </p>
@@ -14,8 +15,8 @@
 <h3>🤗 Let's connect!</h3>
 <p>
 Connect me on : <a href="https://linkedin.com/in/mahri-ilmedova-4848b6165/" target="blank">LinkedIn </a>!<br/>
-Get <a href="https://stackoverflow.com/users/10000507/mahri-ilmedova" target="blank">Stackoverflowed </a> with me!<br/>
-And let's not forget to stay updated with articles on: <a href="https://medium.com/@ilmedovamahri" target="blank">Medium</a>
+See my profile on <a href="https://stackoverflow.com/users/10000507/mahri-ilmedova" target="blank">Stackoverflow </a><br/>
+Follow me on: <a href="https://medium.com/@ilmedovamahri" target="blank">Medium</a>
 </p>
 
 <hr/>
