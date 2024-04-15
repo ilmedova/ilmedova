@@ -1,10 +1,10 @@
 ![](https://hit.yhype.me/github/profile?user_id=51631719)
+<img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=ilmedova&data=followers,repositories,stars,commits&theme=dark">
 ###
-<h3>👋 Hello world!</h3>
+<h3>👋 Hi! Here's brief intro</h3>
 <p>
-:octocat: Welcome to my github page! <br/>
-🎓 Bachelor's degree: Programming for the Computer Systems <br/>
-🎓 Master's degree: Computer Science <br/>
+🎓 Bachelor's degree in Programming for the Computer Systems <br/>
+🎓 Completing my Master's degree in Computer Science <br/>
 💻 Professional non-internship experience: 4+ years<br/>
 💪 Passionate software engineer with strong problem solving, programming and communication skills<br/>
 🚀 Launching into AI: Aspiring Machine Learning Enthusiast fueling my passion on the path to mastery <br/>
@@ -16,9 +16,7 @@
 <h3>🏆 Github stats </h3>
 <img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=ilmedova&theme=algolia&row=1&column=9">
 <div align="center">
-  <img style="width: 33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilmedova&theme=city_lights">
-  <img style="width:33%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilmedova&theme=city_lights">
-  <img style="width:33%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ilmedova&theme=city_lights">
+  <img style="width: 100%" src="https://myreadme.vercel.app/api/embed/ilmedova?panels=userstatistics,toprepositories,toplanguages,commitgraph"/>
 </div>
 
 <hr/>
@@ -27,11 +25,6 @@
 <a href="https://leetcode.com/mahri/"><img src="https://leetcard.jacoblin.cool/mahri?theme=nord&font=Ubuntu" ></a><br>
 <hr/>
 
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,php,js,html,css,mysql,markdown&includeNames=true&theme=8008&frameworks=laravel,django,electron,bootstrap,tailwind,react,express&tools=jupyter,git,docker,npm,yarn,webpack,firebase,mongodb,redis,nodejs,apache,nginx,aws)](https://github.com/Jurredr/github-widgetbox)
-
-
-<hr/>
 <h3>📜 Certifications </h3>
 <div>
     <a href="https://www.hackerrank.com/certificates/c73d843dda76"><img style="width: 50%" src="./certificates/python_basic.png"/></a>
