@@ -14,7 +14,7 @@
 <hr/>
 
 <h3>🏆 Github stats </h3>
-<img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=ilmedova&theme=algolia&row=2&column=5">
+<img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=ilmedova&theme=algolia&row=1&column=9">
 <div align="center">
   <img style="width: 33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilmedova&theme=city_lights">
   <img style="width:33%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilmedova&theme=city_lights">
@@ -28,12 +28,11 @@
 <hr/>
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,php,js,html,css,mysql,markdown&includeNames=true&theme=8008&frameworks=laravel,django,electron,bootstrap,tailwind,react,express&libraries=babel,jquery&software=linux,windows,vscode&tools=jupyter,git,docker,npm,yarn,webpack,firebase,mongodb,redis,nodejs,apache,nginx,aws)](https://github.com/Jurredr/github-widgetbox)
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,php,js,html,css,mysql,markdown&includeNames=true&theme=8008&frameworks=laravel,django,electron,bootstrap,tailwind,react,express&tools=jupyter,git,docker,npm,yarn,webpack,firebase,mongodb,redis,nodejs,apache,nginx,aws)](https://github.com/Jurredr/github-widgetbox)
 
 
 <hr/>
 <h3>📜 Certifications </h3>
 <div>
-    <a href="https://www.hackerrank.com/certificates/c73d843dda76"><img style="width: 33%" src="./certificates/python_basic.png"/></a>
+    <a href="https://www.hackerrank.com/certificates/c73d843dda76"><img style="width: 50%" src="./certificates/python_basic.png"/></a>
 </div>
