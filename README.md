@@ -22,6 +22,9 @@ Follow me on: <a href="https://medium.com/@ilmedovamahri" target="blank">Medium<
 
 <hr/>
 
+<h3>Technologies</h3>
+
+
 <h3>🏆 Github stats </h3>
 <img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=ilmedova&theme=algolia">
 <div align="center">
