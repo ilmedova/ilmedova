@@ -1,7 +1,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=51631719)
 <img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=ilmedova&data=followers,repositories,stars,commits&theme=dark">
 ###
-<h3>👋 Hi! Here's brief intro</h3>
+<h3>👋 Hi! Briefly about me...</h3>
 <p>
 🎓 Bachelor's degree in Programming for the Computer Systems <br/>
 🎓 Completing my Master's degree in Computer Science <br/>
