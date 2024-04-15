@@ -14,7 +14,7 @@
 <hr/>
 
 <h3>🏆 Github stats </h3>
-<img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=ilmedova&theme=algolia&row=1&column=9">
+<img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=ilmedova&theme=algolia&row=2&column=7">
 <div align="center">
   <img style="width: 100%" src="https://myreadme.vercel.app/api/embed/ilmedova?panels=userstatistics,toprepositories,toplanguages,commitgraph"/>
 </div>
