@@ -33,5 +33,6 @@
 
 <h3>📜 Certifications </h3>
 <div>
-    <a href="https://www.hackerrank.com/certificates/c73d843dda76"><img style="width: 50%" src="./certificates/python_basic.png"/></a>
+    <a href="https://www.hackerrank.com/certificates/c73d843dda76"><img style="width: 49.5%" src="./certificates/python_basic.png"/></a>
+    <a href="https://www.linkedin.com/learning/certificates/1aa641a3ae5e8d5a2c8592c49fa521e9f62fda75d938f6efb77274a6461ccab5"><img style="width: 49.5%" src="./certificates/python_professional.png"/></a>
 </div>
