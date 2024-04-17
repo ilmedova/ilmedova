@@ -29,9 +29,11 @@
     <img style="width:60%" src="https://leetcard.jacoblin.cool/mahri?theme=nord&font=Ubuntu"/>
   </a>
 </div>
-<hr/>
 
-<!---<h3>📜 Certifications </h3>
+
+<!---
+<hr/>
+<h3>📜 Certifications </h3>
 <div>
     <a align=top href="https://www.hackerrank.com/certificates/c73d843dda76"><img style="width: 49%" src="./certificates/python_basic.png"/></a>
     <a align=top href="https://www.linkedin.com/learning/certificates/1aa641a3ae5e8d5a2c8592c49fa521e9f62fda75d938f6efb77274a6461ccab5"><img style="width: 49%" src="./certificates/python_professional.png"/></a>
