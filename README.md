@@ -28,6 +28,9 @@
   <a style="text-decoration:none" href="https://leetcode.com/mahri/">
     <img style="width:60%" src="https://leetcard.jacoblin.cool/mahri?theme=nord&font=Ubuntu"/>
   </a>
+  <a >
+    <img style="width:28%" src="https://leetcode-badge-showcase.vercel.app/api?username=mahri&theme=dracula&border=no-border">
+  </a>
 </div>
 
 
