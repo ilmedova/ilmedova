@@ -26,7 +26,7 @@
 <h3>🧠 Leetcode stats </h3>
 <div>
    <a style="text-decoration:none" href="https://leetcode.com/mahri/">
-    <img style="width:60%" src="https://leetcard.jacoblin.cool/mahri?theme=nord&font=Ubuntu"/>
+    <img style="width:60%" src="https://leetcard.jacoblin.cool/mahri?theme=nord&font=Ubuntu&ext=contest"/>
   </a>
 </div>
 
