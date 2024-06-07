@@ -8,7 +8,7 @@
 <p>
 🎓 Bachelor's degree in Programming for the Computer Systems <br/>
 🎓 Completing my Master's degree in Computer Science <br/>
-💻 Experience in industrial programming: 7 years, including 4+ of professional non-internship<br/>
+💻 Experience in industrial programming: 5 years of professional experience<br/>
 💪 Passionate software engineer with strong problem solving, programming and communication skills<br/>
 🚀 Launching into AI: Aspiring Machine Learning Enthusiast fueling my passion on the path to mastery <br/>
 🤗 Let's connect! You can reach me via: ilmedovamahri2@gmail.com or <a href="https://linkedin.com/in/mahri-ilmedova/" target="blank">LinkedIn</a>
