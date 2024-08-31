@@ -18,15 +18,11 @@
 
 <h3>🏆 Github stats </h3>
   <img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=ilmedova&theme=algolia&row=2&column=7">
-  <div align="center">
-    <img style="width: 100%" src="https://myreadme.vercel.app/api/embed/ilmedova?panels=userstatistics,toprepositories,toplanguages,commitgraph"/>
-  </div>
-
 
 <h3>🧠 Leetcode stats </h3>
 <div>
    <a style="text-decoration:none" href="https://leetcode.com/mahri/">
-    <img style="width:60%" src="https://leetcard.jacoblin.cool/mahri?theme=nord&font=Ubuntu&ext=contest"/>
+    <img style="width:60%" src="https://leetcard.jacoblin.cool/ilmedovamahri?theme=nord&font=Ubuntu&ext=contest"/>
   </a>
 </div>
 
