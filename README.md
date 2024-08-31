@@ -16,12 +16,12 @@
 <h3> Briefly this is me 👇 </h3>
 <table>
   <tr>
-    <td valign="top">
-      <img align='right' alt="" src="https://github-readme-stats.vercel.app/api?username=ilmedova&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-      <img align='right' src="https://github-readme-streak-stats.herokuapp.com/?user=ilmedova&theme=react&hide_border=true&bg_color=0D1117" alt="ecoknows" />
+    <td valign="top" width="50%">
+      <img align='right' width="100%" alt="" src="https://github-readme-stats.vercel.app/api?username=ilmedova&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+      <img align='right' width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilmedova&theme=react&hide_border=true&bg_color=0D1117" alt="ecoknows" />
     </td>
-    <td valign="top">
-     <img width="400" alt='Cold' src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif">
+    <td valign="top" width="50%">
+     <img width="100%" alt='Cold' src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif">
     </td>
   </tr>
 </table>
