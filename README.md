@@ -1,21 +1,44 @@
 ![](https://hit.yhype.me/github/profile?user_id=51631719)
-<img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=ilmedova&data=followers,repositories,stars,commits&theme=dark">
+<!--<img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=ilmedova&data=followers,repositories,stars,commits&theme=dark"> -->
 ###
-<h3>
-  <img style="width:70px" src="https://camo.githubusercontent.com/89cee19ca62c04c2858e6f227dd3d51ee3e4835978beb71f079a00b26c2b4046/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-  A little about me...
-</h3>
+<img style="width:150px" src="https://i.giphy.com/VgCDAzcKvsR6OM0uWg.webp" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"><br/>
+<h2>
+  Hey there! 👋 I'm Mahri Ilmedova
+</h2>
+
+<h3>🧑‍💻 About Me</h3>
 <p>
-🎓 Bachelor's degree in Programming for the Computer Systems <br/>
-🎓 Completing my Master's degree in Computer Science <br/>
-💻 Experience in industry: 5 years of professional experience<br/>
-💪 Passionate software engineer with strong problem solving, programming and communication skills<br/>
-🚀 Launching into AI: Aspiring Machine Learning Enthusiast fueling my passion on the path to mastery <br/>
-🤗 Let's connect! You can reach me via: ilmedovamahri2@gmail.com or <a href="https://linkedin.com/in/mahri-ilmedova/" target="blank">LinkedIn</a>
+  I turn coffee ☕ into code that powers the world 🌍 <br/>
+  Whether it's building scalable systems or crafting sleek interfaces, I'm all about writing code that’s both elegant and efficient. 🚀
 </p>
 
-<hr/>
+<h3>💡 What Drives Me</h3>
+<ul>
+  <li>Problem Solving: There’s nothing quite like the thrill of cracking a complex problem and turning it into a seamless solution.</li>
+  <li>Continuous Learning: Always curious, always leveling up! Whether it’s mastering algorithms or diving into enterprise-level system design, I love sharpening my tools.</li>
+  <li>Collaborative Building: I enjoy collaborating with others, contributing to open-source projects, and being part of communities that push the boundaries of what's possible.</li>
+</ul>
 
+<h3> ❤️ Things I Love</h3>
+<ul>
+  <li>💻 Building real-world applications that scale, sustain, and adapt.</li>
+  <li>🧠 Exploring data structures and algorithms to optimize everything I create.</li>
+  <li>🤖 Collaborating with the community through open-source contributions and knowledge sharing.</li>
+</ul>
+<h3>🌱 Currently</h3>
+<p>
+  I'm on a journey to master the intricacies of enterprise-level development, delving into advanced algorithms, and building robust, scalable applications that make a difference.
+</p>
+<h3>🎨 When I'm Not Coding</h3>
+<p>You might find me:</p>
+<ul>
+  <li>Daydreaming about new projects or perfecting the art of minimalism.</li>
+  <li>Exploring tech news and trends.</li>
+  <li>Hiking trails and capturing sunsets through my camera lens.</li>
+</ul>
+<h3>🚀 Let's Connect</h3>
+<p>I'm always excited to connect with fellow developers, learners, and innovators. Feel free to explore my projects, provide feedback, or just say hi! Here is my: <a href="https://www.linkedin.com/in/mahri-ilmedova/">LinkedIn account</a> Let's innovate together! </p>
+<hr/>
 <h3>🏆 Github stats </h3>
   <img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=ilmedova&theme=algolia&row=2&column=7">
 
