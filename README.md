@@ -33,7 +33,7 @@
 <table>
   <tr>
     <td valign="top">
-      <a style="text-decoration:none" href="https://leetcode.com/mahri/">
+      <a style="text-decoration:none" href="https://leetcode.com/ilmedovamahri/">
         <img style="width:100%" src="https://leetcard.jacoblin.cool/ilmedovamahri?theme=nord&font=Ubuntu&ext=contest"/>
       </a>
     </td>
