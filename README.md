@@ -3,7 +3,7 @@
 ###
 <img style="width:100%" src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"><br/>
 <h2 align="center">
-   Hey there! 👋 I'm Mahri Ilmedova - Full-stack SWE.
+   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px" height="48"> Hey there! I'm Mahri Ilmedova - Full-stack SWE
 </h2>
 <h3>💡 What Drives Me</h3>
 <ul>
