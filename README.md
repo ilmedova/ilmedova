@@ -11,6 +11,7 @@
   <li>Continuous Learning: Always curious, always leveling up! Whether it’s mastering algorithms or diving into enterprise-level system design, I love sharpening my tools.</li>
   <li>Collaborative Building: I enjoy collaborating with others, contributing to open-source projects, and being part of communities that push the boundaries of what's possible.</li>
 </ul>
+<h3>💪🏻 Hard work beats talent, when talent doesn't work Hard!!!</h3>
 <h3>🚀 Let's Connect</h3>
 <p>I'm always excited to connect with fellow developers, learners, and innovators. Feel free to explore my projects, provide feedback, or just say hi! Here is my: <a href="https://www.linkedin.com/in/mahri-ilmedova/">LinkedIn account</a> Let's innovate together! </p>
 <h3> Briefly this is me 👇 </h3>
