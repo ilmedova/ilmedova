@@ -27,10 +27,8 @@
   </tr>
 </table>
 
-<h3>🏆 Tropheys earned </h3>
+<h3>🏆 Github and Leetcode stats </h3>
   <img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=ilmedova&theme=algolia&row=1&column=9">
-
-<h3>🧠 Leetcode stats </h3>
 <table>
   <tr>
     <td valign="top">
