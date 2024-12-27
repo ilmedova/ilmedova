@@ -1,28 +1,29 @@
 ![](https://hit.yhype.me/github/profile?user_id=51631719)
-<!--<img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=ilmedova&data=followers,repositories,stars,commits&theme=dark"> -->
-###
+
 <img style="width:100%" src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"><br/>
-<h2 align="center">
-   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px" height="48"> Hey there! I'm Mahri Ilmedova - Full-stack SWE
-</h2>
-<h3>💡 What Drives Me</h3>
-<ul>
-  <li>Problem Solving: There’s nothing quite like the thrill of cracking a complex problem and turning it into a seamless solution.</li>
-  <li>Continuous Learning: Always curious, always leveling up! Whether it’s mastering algorithms or diving into enterprise-level system design, I love sharpening my tools.</li>
-  <li>Collaborative Building: I enjoy collaborating with others, contributing to open-source projects, and being part of communities that push the boundaries of what's possible.</li>
-</ul>
-<h3>💪🏻 Hard work beats talent, when talent doesn't work Hard!!!</h3>
-<h3>🚀 Let's Connect</h3>
-<p>I'm always excited to connect with fellow developers, learners, and innovators. Feel free to explore my projects, provide feedback, or just say hi! Here is my: <a href="https://www.linkedin.com/in/mahri-ilmedova/">LinkedIn account</a> Let's innovate together! </p>
-<h3> Briefly this is me 👇 </h3>
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img align='right' width="100%" alt="" src="https://github-readme-stats.vercel.app/api?username=ilmedova&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    </td>
-    <td valign="top" width="50%">
-     <img width="100%" alt='Cold' src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif">
-    </td>
+
+
+<table style="width:100%">
+   <tr>
+      <td colspan="2">
+         <h3 align="center">
+         <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="50px"> Hey there! I'm an another octo from Earth, Milky Way.
+        </h3>
+      </td>
+   </tr>
+  <tr width="100%">
+     <td valign="top" width="70%">
+        <h3>💡 What Drives Me</h3>
+         <ul>
+           <li>Problem Solving</li>
+            <li>Collaborative Building</li>
+           <li>Continuous Learning</li>
+         </ul>
+        <h3>🚀 Let's Connect and build the future together!</h3><br/>
+     </td>
+     <td valign="center" width="30%">
+         <img width="90%" alt='Cold' src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif">
+      </td>
   </tr>
 </table>
 
