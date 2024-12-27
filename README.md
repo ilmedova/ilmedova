@@ -28,7 +28,7 @@
 </table>
 
 <h3>🏆 Tropheys earned </h3>
-  <img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=ilmedova&theme=algolia&row=2&column=7">
+  <img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=ilmedova&theme=algolia&row=1&column=9">
 
 <h3>🧠 Leetcode stats </h3>
 <table>
@@ -38,8 +38,8 @@
         <img style="width:100%" src="https://leetcard.jacoblin.cool/ilmedovamahri?theme=nord&font=Ubuntu&ext=contest"/>
       </a>
     </td>
-    <td valign="top">
-     <img style="width: 80%" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
+    <td valign="center" align="center">
+     <img style="width: 60%" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
     </td>
   </tr>
 </table>
