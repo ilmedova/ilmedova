@@ -1,7 +1,4 @@
-![](https://hit.yhype.me/github/profile?user_id=51631719)
-
-<img style="width:100%" src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"><br/>
-
+![MasterHead](https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif)
 
 <table style="width:100%">
    <tr>
