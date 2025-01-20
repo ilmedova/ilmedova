@@ -1,13 +1,13 @@
 ![MasterHead](https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif)
 
 <table style="width:100%">
-   <tr>
+<!--    <tr>
       <td colspan="2">
          <h3 align="center">
          <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="50px"> Hey there! I'm an another octo from Earth, Milky Way.
         </h3>
       </td>
-   </tr>
+   </tr> -->
   <tr width="100%">
      <td valign="top" width="70%">
         <h3>💡 What Drives Me</h3>
