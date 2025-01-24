@@ -3,7 +3,7 @@
 
 <h3>🏆 Github and Leetcode stats </h3>
   <img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=ilmedova&theme=algolia&row=1&column=9">
-<table>
+<!-- <table>
   <tr>
     <td valign="top">
       <a style="text-decoration:none" href="https://leetcode.com/ilmedovamahri/">
@@ -14,7 +14,7 @@
      <img width="80%" alt='Cold' src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif">
     </td>
   </tr>
-</table>
+</table> -->
 
 
 
