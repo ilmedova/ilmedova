@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/61/b1/71/61b1710cd1f39d8a2134c7a817b84797.gif" width="100%"/>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cf06a29-04a0-4466-9f83-ab6b9658149f/desgqkk-241d011f-7a40-41a8-b5b0-0b80c777a137.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZjA2YTI5LTA0YTAtNDQ2Ni05ZjgzLWFiNmI5NjU4MTQ5ZlwvZGVzZ3Fray0yNDFkMDExZi03YTQwLTQxYTgtYjViMC0wYjgwYzc3N2ExMzcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3hNUFWmMhYq0aJBnAJDTZEyUmcIQB530pDENIrmC9Jg" width="100%"/>
 
 
 <h3>🏆 Github and Leetcode stats </h3>
