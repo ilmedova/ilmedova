@@ -1,28 +1,5 @@
-![MasterHead](https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif)
+<img src="https://i.pinimg.com/originals/61/b1/71/61b1710cd1f39d8a2134c7a817b84797.gif" width="100%"/>
 
-<table style="width:100%">
-<!--    <tr>
-      <td colspan="2">
-         <h3 align="center">
-         <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="50px"> Hey there! I'm an another octo from Earth, Milky Way.
-        </h3>
-      </td>
-   </tr> -->
-  <tr width="100%">
-     <td valign="top" width="70%">
-        <h3>💡 What Drives Me</h3>
-         <ul>
-           <li>Problem Solving</li>
-            <li>Collaborative Building</li>
-           <li>Continuous Learning</li>
-         </ul>
-        <h3>🚀 Let's Connect and build the future together!</h3><br/>
-     </td>
-     <td valign="center" width="30%">
-         <img width="90%" alt='Cold' src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif">
-      </td>
-  </tr>
-</table>
 
 <h3>🏆 Github and Leetcode stats </h3>
   <img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=ilmedova&theme=algolia&row=1&column=9">
@@ -34,7 +11,7 @@
       </a>
     </td>
     <td valign="center" align="center">
-     <img style="width: 60%" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
+     <img width="80%" alt='Cold' src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif">
     </td>
   </tr>
 </table>
