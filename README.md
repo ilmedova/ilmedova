@@ -1,4 +1,4 @@
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cf06a29-04a0-4466-9f83-ab6b9658149f/desgqkk-241d011f-7a40-41a8-b5b0-0b80c777a137.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZjA2YTI5LTA0YTAtNDQ2Ni05ZjgzLWFiNmI5NjU4MTQ5ZlwvZGVzZ3Fray0yNDFkMDExZi03YTQwLTQxYTgtYjViMC0wYjgwYzc3N2ExMzcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3hNUFWmMhYq0aJBnAJDTZEyUmcIQB530pDENIrmC9Jg" width="100%"/>
+<img src="https://media2.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif?cid=6c09b952gxga6r8x6nos01xuztvc7e1ewnftj08mzc7vsvc9&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%"/>
 <hr/>
 
 <h3 align="center">🏆 Github Achievements 🏆</h3>
