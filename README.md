@@ -1,7 +1,7 @@
 <img src="https://giffiles.alphacoders.com/917/9174.gif" width="100%"/>
 
-<h3 align="center">🏆 Github Achievements 🏆</h3>
-<!-- <img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=ilmedova&theme=algolia&row=1&column=9"> -->
+<!--<h3 align="center">🏆 Github Achievements 🏆</h3>
+ <img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=ilmedova&theme=algolia&row=1&column=9"> -->
 <!-- <table>
   <tr>
     <td valign="top">
