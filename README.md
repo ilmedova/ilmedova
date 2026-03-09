@@ -42,7 +42,7 @@
 
 ## ✨ Current Vibes ₍^. .^₎⟆
 
-- 🔭 Building cute web apps and side projects
+- 🔭 Building cute web apps and learning projects
 - 🌱 Learning more about clean UI, backend systems, and animations
 - 🎨 Making things that feel soft, playful, and fun to use
 - 🎮 Cozy gaming, sketching, and collecting inspiration
