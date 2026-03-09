@@ -49,17 +49,6 @@
 
 ---
 
-## 📊 GitHub Stats (づ｡◕‿‿◕｡)づ
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilmedova&show_icons=true&theme=rose_pine&hide_border=true&border_radius=12)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilmedova&layout=compact&theme=rose_pine&hide_border=true&border_radius=12)
-
-</div>
-
----
-
 ## 🌐 Let’s Connect ヾ(•ω•`)o
 
 <p align="left">
