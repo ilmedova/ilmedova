@@ -58,8 +58,6 @@
 
 </div>
 
-> Replace `yourusername` with your actual GitHub username 💡
-
 ---
 
 ## 🌐 Let’s Connect ヾ(•ω•`)o
